@@ -1,0 +1,63 @@
+html,
+body {
+  height: 10%;
+  margin: 0;
+}
+
+body {
+  background-image: linear-gradient(
+    to bottom,
+    rgb(0, 98, 255),
+    rgb(0, 195, 255)
+  );
+}
+
+.header {
+  color: white;
+  font-family: "Yeon Sung";
+  font-size: 45px;
+  letter-spacing: 10px;
+  margin-top: 80px;
+}
+.header img {
+  width: 80px;
+}
+
+.login_div {
+  background: rgba(255, 255, 255, 0.8);
+  float: none;
+  border-radius: 15px;
+  align-items: center;
+}
+
+.cute_bird {
+  width: 80px;
+  margin-top: 30px;
+  border-radius: 40px;
+}
+
+#login_button {
+  width: 80%;
+  border-radius: 15px;
+  background-color: darkcyan;
+}
+
+#logout {
+  font-size: 20px;
+  position: absolute;
+  left: 250px;
+  top: 20px;
+}
+
+label {
+  font-size: x-large;
+}
+
+.input_div_room_page {
+  width: 80%;
+}
+
+#user_name2 {
+  position: absolute;
+  left: 925px;
+}
